@@ -4,6 +4,7 @@
 
 - Kali Linux
 - Linguagem Python
+- Visual Studio Code.
 
 ### Contextualização
 
